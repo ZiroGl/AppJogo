@@ -40,22 +40,22 @@ bash
 ├── app
 │   ├── src
 │   │   ├── main
-│   │   │   ├── java/com/example/imccalculator
+│   │   │   ├── java/br/ulbra/AppJogo
 │   │   │  
-│   ├── MainActivity.java         #Atividade principal 
+│   ├── MainActivity.java         
 │   │   │   ├──res
 │   │   │  
 │   ├── layout
 │   │   │  
-│   │   ├── activity_main.xml      #Layout da tela principal
+│   │   ├── activity_main.xml      
 │   │   │  
 │   └── values
 │   │   │  
-│       ├──strings.xml                        # Strings usadas no app
+│       ├──strings.xml                        
 │   │   │  
-│       ├── colors.xml             # Cores definidas no projeto
-│   └── build.gradle               # Configuração do Gradle
-└── README.md                      # Este arquivo
+│       ├── colors.xml             
+│   └── build.gradle               
+└── README.md                      
 ```
 
 # 🎨 Design e Prototipagem
