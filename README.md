@@ -73,6 +73,9 @@ Na tela principal, o usuário vai encontrar 3 botões com a imagem de pedra, pap
 
 <img src="https://github.com/user-attachments/assets/0a219dfc-a081-4222-af04-03283c105c8a" width="260" height="500"/>
 
+# 📲 APK do APP 
+
+<a href="https://github.com/ZiroGl/AppJogo/blob/main/AppJogo.apk"> Download APK </a>
 
 # 📄 Licença
 
